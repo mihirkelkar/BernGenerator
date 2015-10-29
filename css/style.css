@@ -1,0 +1,28 @@
+.title{
+	position: relative;
+	text-align:center;
+	padding: 1em;
+	color: #6a6f7c;
+        font-family: 'Vollkorn', serif;
+	font-size: 5em;
+        letter-spacing: 0.02em;
+}
+
+.slogan{
+	text-align:center;
+	padding: 0.5em;
+	color: #4E7CA0;
+	font-size: 2.5em;
+}
+
+.pic{
+	height: 25em;
+	width: 2em;
+	margin: 0 auto;
+	text-align:center;
+}
+
+.pliz{
+	font-size: 0.5em;
+	text-align:center;
+}
